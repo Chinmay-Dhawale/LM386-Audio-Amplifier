@@ -64,12 +64,16 @@
 ---
 
 ## Results
-
+<p align="center">
+  <img src="media/waveforms.png" width="700">
+</p>
 ### Observations
 * Clear audio amplification achieved
 * Minimal distortion in output
 * Stable operation with few components
 * Suitable for low-power applications
+  
+### Waveforms
 
 ### Performance
 * Input Signal: 10 mV – 200 mV
