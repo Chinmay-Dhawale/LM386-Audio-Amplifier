@@ -30,7 +30,10 @@
 * Today, it is widely used in embedded and portable audio systems.
 
 ---
-
+##Stimulation
+<p align="center">
+  <img src="media/simulation.png" width="700">
+</p>
 ## Methodology / Steps of Project
 
 ### Step 1: Input Stage
