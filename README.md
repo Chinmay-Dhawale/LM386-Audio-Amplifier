@@ -53,7 +53,9 @@
 
 ## Block Diagram
 
-
+<p align="center">
+  <img src="media/block_diagram.png" width="700">
+</p>
 
 
 ---
