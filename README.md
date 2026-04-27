@@ -30,7 +30,7 @@
 * Today, it is widely used in embedded and portable audio systems.
 
 ---
-##Stimulation
+## Stimulation
 <p align="center">
   <img src="media/simulation.png" width="700">
 </p>
