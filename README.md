@@ -65,7 +65,7 @@
 
 ## Results
 <p align="center">
-  <img src="media/waveforms.png" width="700">
+  <img src="media/waveforms.png" width="400">
 </p>
 ### Observations
 * Clear audio amplification achieved
